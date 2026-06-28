@@ -1,0 +1,363 @@
+{
+  "neutral_prompt": "A photo of a person.",
+  "categories": [
+    "upper_color",
+    "upper_type",
+    "lower_color",
+    "lower_type",
+    "shoes",
+    "bag",
+    "accessory",
+    "hair"
+  ],
+  "prompts": [
+    {
+      "category": "upper_color",
+      "attribute": "white",
+      "prompt": "A photo of a person wearing a white upper-body garment.",
+      "count": 700
+    },
+    {
+      "category": "upper_color",
+      "attribute": "black",
+      "prompt": "A photo of a person wearing a black upper-body garment.",
+      "count": 563
+    },
+    {
+      "category": "upper_color",
+      "attribute": "gray",
+      "prompt": "A photo of a person wearing a gray upper-body garment.",
+      "count": 246
+    },
+    {
+      "category": "upper_color",
+      "attribute": "blue",
+      "prompt": "A photo of a person wearing a blue upper-body garment.",
+      "count": 189
+    },
+    {
+      "category": "upper_color",
+      "attribute": "pink",
+      "prompt": "A photo of a person wearing a pink upper-body garment.",
+      "count": 188
+    },
+    {
+      "category": "upper_color",
+      "attribute": "green",
+      "prompt": "A photo of a person wearing a green upper-body garment.",
+      "count": 161
+    },
+    {
+      "category": "upper_color",
+      "attribute": "brown",
+      "prompt": "A photo of a person wearing a brown upper-body garment.",
+      "count": 156
+    },
+    {
+      "category": "upper_color",
+      "attribute": "red",
+      "prompt": "A photo of a person wearing a red upper-body garment.",
+      "count": 153
+    },
+    {
+      "category": "upper_color",
+      "attribute": "purple",
+      "prompt": "A photo of a person wearing a purple upper-body garment.",
+      "count": 93
+    },
+    {
+      "category": "upper_color",
+      "attribute": "tan",
+      "prompt": "A photo of a person wearing a tan upper-body garment.",
+      "count": 88
+    },
+    {
+      "category": "upper_color",
+      "attribute": "yellow",
+      "prompt": "A photo of a person wearing a yellow upper-body garment.",
+      "count": 79
+    },
+    {
+      "category": "upper_color",
+      "attribute": "orange",
+      "prompt": "A photo of a person wearing a orange upper-body garment.",
+      "count": 20
+    },
+    {
+      "category": "upper_type",
+      "attribute": "t-shirt",
+      "prompt": "A photo of a person wearing t-shirt.",
+      "count": 1466
+    },
+    {
+      "category": "upper_type",
+      "attribute": "shirt",
+      "prompt": "A photo of a person wearing shirt.",
+      "count": 1190
+    },
+    {
+      "category": "upper_type",
+      "attribute": "dress",
+      "prompt": "A photo of a person wearing dress.",
+      "count": 87
+    },
+    {
+      "category": "upper_type",
+      "attribute": "hoodie",
+      "prompt": "A photo of a person wearing hoodie.",
+      "count": 74
+    },
+    {
+      "category": "upper_type",
+      "attribute": "jacket",
+      "prompt": "A photo of a person wearing jacket.",
+      "count": 65
+    },
+    {
+      "category": "upper_type",
+      "attribute": "tank top",
+      "prompt": "A photo of a person wearing tank top.",
+      "count": 38
+    },
+    {
+      "category": "upper_type",
+      "attribute": "polo",
+      "prompt": "A photo of a person wearing polo.",
+      "count": 17
+    },
+    {
+      "category": "lower_color",
+      "attribute": "black",
+      "prompt": "A photo of a person wearing a black lower-body garment.",
+      "count": 747
+    },
+    {
+      "category": "lower_color",
+      "attribute": "tan",
+      "prompt": "A photo of a person wearing a tan lower-body garment.",
+      "count": 442
+    },
+    {
+      "category": "lower_color",
+      "attribute": "gray",
+      "prompt": "A photo of a person wearing a gray lower-body garment.",
+      "count": 178
+    },
+    {
+      "category": "lower_color",
+      "attribute": "blue",
+      "prompt": "A photo of a person wearing a blue lower-body garment.",
+      "count": 116
+    },
+    {
+      "category": "lower_color",
+      "attribute": "brown",
+      "prompt": "A photo of a person wearing a brown lower-body garment.",
+      "count": 110
+    },
+    {
+      "category": "lower_color",
+      "attribute": "white",
+      "prompt": "A photo of a person wearing a white lower-body garment.",
+      "count": 86
+    },
+    {
+      "category": "lower_color",
+      "attribute": "pink",
+      "prompt": "A photo of a person wearing a pink lower-body garment.",
+      "count": 24
+    },
+    {
+      "category": "lower_color",
+      "attribute": "green",
+      "prompt": "A photo of a person wearing a green lower-body garment.",
+      "count": 20
+    },
+    {
+      "category": "lower_color",
+      "attribute": "red",
+      "prompt": "A photo of a person wearing a red lower-body garment.",
+      "count": 18
+    },
+    {
+      "category": "lower_color",
+      "attribute": "yellow",
+      "prompt": "A photo of a person wearing a yellow lower-body garment.",
+      "count": 8
+    },
+    {
+      "category": "lower_type",
+      "attribute": "shorts",
+      "prompt": "A photo of a person wearing shorts.",
+      "count": 914
+    },
+    {
+      "category": "lower_type",
+      "attribute": "jeans",
+      "prompt": "A photo of a person wearing jeans.",
+      "count": 797
+    },
+    {
+      "category": "lower_type",
+      "attribute": "pants",
+      "prompt": "A photo of a person wearing pants.",
+      "count": 703
+    },
+    {
+      "category": "lower_type",
+      "attribute": "skirt",
+      "prompt": "A photo of a person wearing skirt.",
+      "count": 177
+    },
+    {
+      "category": "shoes",
+      "attribute": "brown",
+      "prompt": "A photo of a person wearing brown shoes.",
+      "count": 81
+    },
+    {
+      "category": "shoes",
+      "attribute": "black",
+      "prompt": "A photo of a person wearing black shoes.",
+      "count": 70
+    },
+    {
+      "category": "shoes",
+      "attribute": "white",
+      "prompt": "A photo of a person wearing white shoes.",
+      "count": 38
+    },
+    {
+      "category": "shoes",
+      "attribute": "tan",
+      "prompt": "A photo of a person wearing tan shoes.",
+      "count": 31
+    },
+    {
+      "category": "shoes",
+      "attribute": "pink",
+      "prompt": "A photo of a person wearing pink shoes.",
+      "count": 14
+    },
+    {
+      "category": "shoes",
+      "attribute": "red",
+      "prompt": "A photo of a person wearing red shoes.",
+      "count": 11
+    },
+    {
+      "category": "shoes",
+      "attribute": "green",
+      "prompt": "A photo of a person wearing green shoes.",
+      "count": 7
+    },
+    {
+      "category": "bag",
+      "attribute": "black",
+      "prompt": "A photo of a person carrying black.",
+      "count": 155
+    },
+    {
+      "category": "bag",
+      "attribute": "backpack",
+      "prompt": "A photo of a person carrying backpack.",
+      "count": 73
+    },
+    {
+      "category": "bag",
+      "attribute": "red",
+      "prompt": "A photo of a person carrying red.",
+      "count": 66
+    },
+    {
+      "category": "bag",
+      "attribute": "brown",
+      "prompt": "A photo of a person carrying brown.",
+      "count": 39
+    },
+    {
+      "category": "bag",
+      "attribute": "white",
+      "prompt": "A photo of a person carrying white.",
+      "count": 36
+    },
+    {
+      "category": "bag",
+      "attribute": "blue",
+      "prompt": "A photo of a person carrying blue.",
+      "count": 21
+    },
+    {
+      "category": "bag",
+      "attribute": "green",
+      "prompt": "A photo of a person carrying green.",
+      "count": 18
+    },
+    {
+      "category": "bag",
+      "attribute": "pink",
+      "prompt": "A photo of a person carrying pink.",
+      "count": 17
+    },
+    {
+      "category": "bag",
+      "attribute": "orange",
+      "prompt": "A photo of a person carrying orange.",
+      "count": 7
+    },
+    {
+      "category": "bag",
+      "attribute": "yellow",
+      "prompt": "A photo of a person carrying yellow.",
+      "count": 7
+    },
+    {
+      "category": "accessory",
+      "attribute": "hat",
+      "prompt": "A photo of a person with hat.",
+      "count": 81
+    },
+    {
+      "category": "accessory",
+      "attribute": "umbrella",
+      "prompt": "A photo of a person with umbrella.",
+      "count": 15
+    },
+    {
+      "category": "accessory",
+      "attribute": "mask",
+      "prompt": "A photo of a person with mask.",
+      "count": 9
+    },
+    {
+      "category": "accessory",
+      "attribute": "sunglasses",
+      "prompt": "A photo of a person with sunglasses.",
+      "count": 7
+    },
+    {
+      "category": "accessory",
+      "attribute": "watch",
+      "prompt": "A photo of a person with watch.",
+      "count": 5
+    },
+    {
+      "category": "hair",
+      "attribute": "brown",
+      "prompt": "A photo of a person with brown hair.",
+      "count": 229
+    },
+    {
+      "category": "hair",
+      "attribute": "black",
+      "prompt": "A photo of a person with black hair.",
+      "count": 7
+    }
+  ],
+  "notes": {
+    "include_sensitive": false,
+    "min_count": 5,
+    "max_per_category": 40,
+    "template_default": "A photo of a person with {attribute}."
+  }
+}

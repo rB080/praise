@@ -1,0 +1,58 @@
+category,attribute,count,prompt
+upper_color,white,700,A photo of a person wearing a white upper-body garment.
+upper_color,black,563,A photo of a person wearing a black upper-body garment.
+upper_color,gray,246,A photo of a person wearing a gray upper-body garment.
+upper_color,blue,189,A photo of a person wearing a blue upper-body garment.
+upper_color,pink,188,A photo of a person wearing a pink upper-body garment.
+upper_color,green,161,A photo of a person wearing a green upper-body garment.
+upper_color,brown,156,A photo of a person wearing a brown upper-body garment.
+upper_color,red,153,A photo of a person wearing a red upper-body garment.
+upper_color,purple,93,A photo of a person wearing a purple upper-body garment.
+upper_color,tan,88,A photo of a person wearing a tan upper-body garment.
+upper_color,yellow,79,A photo of a person wearing a yellow upper-body garment.
+upper_color,orange,20,A photo of a person wearing a orange upper-body garment.
+upper_type,t-shirt,1466,A photo of a person wearing t-shirt.
+upper_type,shirt,1190,A photo of a person wearing shirt.
+upper_type,dress,87,A photo of a person wearing dress.
+upper_type,hoodie,74,A photo of a person wearing hoodie.
+upper_type,jacket,65,A photo of a person wearing jacket.
+upper_type,tank top,38,A photo of a person wearing tank top.
+upper_type,polo,17,A photo of a person wearing polo.
+lower_color,black,747,A photo of a person wearing a black lower-body garment.
+lower_color,tan,442,A photo of a person wearing a tan lower-body garment.
+lower_color,gray,178,A photo of a person wearing a gray lower-body garment.
+lower_color,blue,116,A photo of a person wearing a blue lower-body garment.
+lower_color,brown,110,A photo of a person wearing a brown lower-body garment.
+lower_color,white,86,A photo of a person wearing a white lower-body garment.
+lower_color,pink,24,A photo of a person wearing a pink lower-body garment.
+lower_color,green,20,A photo of a person wearing a green lower-body garment.
+lower_color,red,18,A photo of a person wearing a red lower-body garment.
+lower_color,yellow,8,A photo of a person wearing a yellow lower-body garment.
+lower_type,shorts,914,A photo of a person wearing shorts.
+lower_type,jeans,797,A photo of a person wearing jeans.
+lower_type,pants,703,A photo of a person wearing pants.
+lower_type,skirt,177,A photo of a person wearing skirt.
+shoes,brown,81,A photo of a person wearing brown shoes.
+shoes,black,70,A photo of a person wearing black shoes.
+shoes,white,38,A photo of a person wearing white shoes.
+shoes,tan,31,A photo of a person wearing tan shoes.
+shoes,pink,14,A photo of a person wearing pink shoes.
+shoes,red,11,A photo of a person wearing red shoes.
+shoes,green,7,A photo of a person wearing green shoes.
+bag,black,155,A photo of a person carrying black.
+bag,backpack,73,A photo of a person carrying backpack.
+bag,red,66,A photo of a person carrying red.
+bag,brown,39,A photo of a person carrying brown.
+bag,white,36,A photo of a person carrying white.
+bag,blue,21,A photo of a person carrying blue.
+bag,green,18,A photo of a person carrying green.
+bag,pink,17,A photo of a person carrying pink.
+bag,orange,7,A photo of a person carrying orange.
+bag,yellow,7,A photo of a person carrying yellow.
+accessory,hat,81,A photo of a person with hat.
+accessory,umbrella,15,A photo of a person with umbrella.
+accessory,mask,9,A photo of a person with mask.
+accessory,sunglasses,7,A photo of a person with sunglasses.
+accessory,watch,5,A photo of a person with watch.
+hair,brown,229,A photo of a person with brown hair.
+hair,black,7,A photo of a person with black hair.

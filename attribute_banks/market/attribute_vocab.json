@@ -1,0 +1,246 @@
+{
+  "upper_color": [
+    {
+      "attribute": "white",
+      "count": 700
+    },
+    {
+      "attribute": "black",
+      "count": 563
+    },
+    {
+      "attribute": "gray",
+      "count": 246
+    },
+    {
+      "attribute": "blue",
+      "count": 189
+    },
+    {
+      "attribute": "pink",
+      "count": 188
+    },
+    {
+      "attribute": "green",
+      "count": 161
+    },
+    {
+      "attribute": "brown",
+      "count": 156
+    },
+    {
+      "attribute": "red",
+      "count": 153
+    },
+    {
+      "attribute": "purple",
+      "count": 93
+    },
+    {
+      "attribute": "tan",
+      "count": 88
+    },
+    {
+      "attribute": "yellow",
+      "count": 79
+    },
+    {
+      "attribute": "orange",
+      "count": 20
+    }
+  ],
+  "upper_type": [
+    {
+      "attribute": "t-shirt",
+      "count": 1466
+    },
+    {
+      "attribute": "shirt",
+      "count": 1190
+    },
+    {
+      "attribute": "dress",
+      "count": 87
+    },
+    {
+      "attribute": "hoodie",
+      "count": 74
+    },
+    {
+      "attribute": "jacket",
+      "count": 65
+    },
+    {
+      "attribute": "tank top",
+      "count": 38
+    },
+    {
+      "attribute": "polo",
+      "count": 17
+    }
+  ],
+  "lower_color": [
+    {
+      "attribute": "black",
+      "count": 747
+    },
+    {
+      "attribute": "tan",
+      "count": 442
+    },
+    {
+      "attribute": "gray",
+      "count": 178
+    },
+    {
+      "attribute": "blue",
+      "count": 116
+    },
+    {
+      "attribute": "brown",
+      "count": 110
+    },
+    {
+      "attribute": "white",
+      "count": 86
+    },
+    {
+      "attribute": "pink",
+      "count": 24
+    },
+    {
+      "attribute": "green",
+      "count": 20
+    },
+    {
+      "attribute": "red",
+      "count": 18
+    },
+    {
+      "attribute": "yellow",
+      "count": 8
+    }
+  ],
+  "lower_type": [
+    {
+      "attribute": "shorts",
+      "count": 914
+    },
+    {
+      "attribute": "jeans",
+      "count": 797
+    },
+    {
+      "attribute": "pants",
+      "count": 703
+    },
+    {
+      "attribute": "skirt",
+      "count": 177
+    }
+  ],
+  "shoes": [
+    {
+      "attribute": "brown",
+      "count": 81
+    },
+    {
+      "attribute": "black",
+      "count": 70
+    },
+    {
+      "attribute": "white",
+      "count": 38
+    },
+    {
+      "attribute": "tan",
+      "count": 31
+    },
+    {
+      "attribute": "pink",
+      "count": 14
+    },
+    {
+      "attribute": "red",
+      "count": 11
+    },
+    {
+      "attribute": "green",
+      "count": 7
+    }
+  ],
+  "bag": [
+    {
+      "attribute": "black",
+      "count": 155
+    },
+    {
+      "attribute": "backpack",
+      "count": 73
+    },
+    {
+      "attribute": "red",
+      "count": 66
+    },
+    {
+      "attribute": "brown",
+      "count": 39
+    },
+    {
+      "attribute": "white",
+      "count": 36
+    },
+    {
+      "attribute": "blue",
+      "count": 21
+    },
+    {
+      "attribute": "green",
+      "count": 18
+    },
+    {
+      "attribute": "pink",
+      "count": 17
+    },
+    {
+      "attribute": "orange",
+      "count": 7
+    },
+    {
+      "attribute": "yellow",
+      "count": 7
+    }
+  ],
+  "accessory": [
+    {
+      "attribute": "hat",
+      "count": 81
+    },
+    {
+      "attribute": "umbrella",
+      "count": 15
+    },
+    {
+      "attribute": "mask",
+      "count": 9
+    },
+    {
+      "attribute": "sunglasses",
+      "count": 7
+    },
+    {
+      "attribute": "watch",
+      "count": 5
+    }
+  ],
+  "hair": [
+    {
+      "attribute": "brown",
+      "count": 229
+    },
+    {
+      "attribute": "black",
+      "count": 7
+    }
+  ]
+}
